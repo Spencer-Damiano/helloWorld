@@ -1,1 +1,1 @@
-print("whats up party people")
+print("Start of CSE310")
